@@ -1,0 +1,5 @@
+{
+  "name": "ViralShield",
+  "description": "Cybersecurity side panel for real-time phishing and scam detection in WhatsApp and Gmail.",
+  "requestFramePermissions": []
+}
